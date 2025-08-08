@@ -13,7 +13,7 @@ There are extremely few apps about it that I know of. One of them is my own, Scr
 I worked on it mostly as my graduate project and has remained very basic since. It makes use of dictionaries and ready parts of code commonly seen in the actual scripts, instead of a more sophisticated way like the use of AI or something.
 The idea is to simply write a card's effect (text), for the program to "read" it and create the .lua file automatically. There might be additional stuff to assist with it too (a couple manual choices, information like "Yes/No" answers etc.).
 
-The zipped file contains an executable with the necessary stuff for it to work. The app is easy to use and the instructions are clear. I don't think the modules matter (despite having uploaded them), because my intention is merely to introduce the concept and to show the basis of the possible work-in-progress.
+The zipped file contains an executable with the necessary stuff for it to run. The app is easy to use and the instructions are clear. I don't think the modules matter (despite having uploaded them), because my intention is merely to introduce the concept.
 
 Basically: I want to know if it's worth it to spend time on it or if there are alternatives that are equally as effective (if not better) - not for profit, that should be abvious.
 
