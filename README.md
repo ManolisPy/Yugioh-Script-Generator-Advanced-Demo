@@ -15,7 +15,7 @@ The idea is to simply write a card's effect (text), for the program to "read" it
 
 The zipped file contains an executable with the necessary stuff for it to run. The app is easy to use and the instructions are clear. I don't think the modules matter (despite having uploaded them), because my intention is merely to introduce the concept.
 
-Basically: I want to know if it's worth it to spend time on it or if there are alternatives that are equally as effective (if not better) - not for profit, that should be abvious.
+Basically: I want to know if it's worth it to spend time on it or if there are alternative methods that are equally as effective (if not better) - not for profit, that should be abvious.
 
 
 
