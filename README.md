@@ -11,7 +11,7 @@ There are three (technically only two) ways to create/write the scripts:
 
 There are extremely few apps about it that I know of. One of them is my own, ScriptGeneratorYGO, which can be found here: https://github.com/ManolisPy/ScriptGeneratorYGO
 I worked on it mostly as my graduate project and has remained very basic since. It makes use of dictionaries and ready parts of code commonly seen in the actual scripts, instead of a more sophisticated way like the use of AI or something.
-The idea is to simply write a card's effect (text), for the program to "read" it and create the .lua file automatically. There might be additional stuff to assist with it too (a couple manual choices, information like "Yes/No" answers etc.).
+The idea on the current version is to simply write a card's "effect" (text), for the program to "read" it and create the .lua file automatically. However, no AI tools are used at the moment; just a small combo box, a text box and two ready example codes to work with. The user selects one of the two options in the combo box and the corresponding text appears in the text box. Then, they click a button and voila! file created.
 
 The zipped file contains an executable with the necessary stuff for it to run. The app is easy to use and the instructions are clear. I don't think the modules matter (despite having uploaded them), because my intention is merely to introduce the concept.
 
